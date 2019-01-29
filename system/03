@@ -1,0 +1,3 @@
+Le fichier à modifier pour que cela devienne permanent est "hostname".
+
+path: /etc/hostname

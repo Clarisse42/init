@@ -1,0 +1,3 @@
+Le fichier contenant les entrées locales DNS sont dans /etc/hosts
+
+cat /etc/hosts

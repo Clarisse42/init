@@ -1,0 +1,6 @@
+Le fichier qui contient les clés RSA est "id_rsa"
+path: ~/.ssh/id_rsa
+
+Si il n'y a pas encore de clef, il faut en creer une grâce à la commande "ssh-keygen"
+
+cat ~/.ssh/id_rsa pour afficher 

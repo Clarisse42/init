@@ -1,0 +1,9 @@
+L'adresse IP du serveur DNS que j'utilise se situe dans le fichier resolv.conf.
+
+Sous Linux, ce fichier ce trouve dans /etc/
+
+Le chemin est donc /etc/resolv.conf
+
+Pour l'afficher, on utilise cat:
+
+cat /etc/resolv.conf

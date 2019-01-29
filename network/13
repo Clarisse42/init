@@ -1,0 +1,12 @@
+cmd: nslookup <ip du post>
+
+ex: nslookup 10.13.9.8
+
+output: 
+
+Server:		10.51.1.42
+Address:	10.51.1.42#53
+
+8.9.13.10.in-addr.arpa	name = e3r9p8.42.fr.
+
+e3r9p8.42.fr

@@ -1,0 +1,5 @@
+Pour faire cela, il faut modifier le fichier hosts.
+Cependant, en tant que simple utilisateur, nous n'avons que les droits de lecture, il faut etre root pour pouvoir modifier ce fichier.
+
+Si on est root, on pourrait rajouter la ligne suivante:
+46.19.122.85	intra.42.fr

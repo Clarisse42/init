@@ -1,0 +1,8 @@
+
+Le serveur qui fait le lien entre le serveur local et l'exterieur est le serveur NAT:
+
+nat-1 (10.60.1.11)
+
+Donc l'ip est : 10.60.1.11
+
+(Le NAT permet de faire correspondre une adresse externe à une adresse interne.)
